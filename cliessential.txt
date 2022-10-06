@@ -1,0 +1,14 @@
+cd=change directory
+pwd=which directory
+ls=list of file
+cp=copy
+mv=move
+rm=remove
+echo=print
+cat=create,show
+less=show in a new window
+grep
+mkdir=create directory
+touch=create
+chmod=change mod
+man +help=manual
